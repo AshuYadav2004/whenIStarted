@@ -1,0 +1,40 @@
+:root {
+    /* fonts */
+    --h2-title: Poppins;
+  
+    /* font sizes */
+    --button-size: 10px;
+    --body-size: 16px;
+    --font-size-sm: 21.69px;
+    --subtitle-size: 24px;
+    --h2-title-size: 40px;
+    --h1-title-size: 64px;
+    --font-size-2xl: 100px;
+  
+    /* Colors */
+    --light: #eee;
+    --gray: #393e46;
+    --dark: #222831;
+    --color-gray-400: #1d222a;
+    --color-white: #fff;
+    --main: #00adb5;
+  
+    /* Gaps */
+    --gap-sm: 16px;
+    --gap-md: 55px;
+  
+    /* Paddings */
+    --padding-xs: 10px;
+    --padding-sm: 24px;
+    --padding-md: 25px;
+    --padding-lg: 32px;
+  
+    /* border radiuses */
+    --br-2xs: 5px;
+    --br-xs: 22.59px;
+    --br-sm: 24px;
+    --br-md: 25px;
+    --br-lg: 50px;
+    --br-xl: 100px;
+  }
+  

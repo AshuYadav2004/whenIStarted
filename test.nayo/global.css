@@ -1,0 +1,64 @@
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-crimson-text: "Crimson Text";
+  --font-tangerine: Tangerine;
+  --font-epilogue: Epilogue;
+
+  /* font sizes */
+  --font-size-sm: 9.4px;
+  --font-size-base: 10.05px;
+  --font-size-lg: 11.54px;
+  --font-size-xl: 12.2px;
+  --font-size-2xl: 12.17px;
+  --font-size-3xl: 12.56px;
+  --font-size-4xl: 14.12px;
+  --font-size-5xl: 15.65px;
+  --font-size-6xl: 18.17px;
+  --font-size-7xl: 23.28px;
+  --font-size-8xl: 42px;
+  --font-size-9xl: 46.96px;
+  --font-size-10xl: 61.69px;
+  --font-size-11xl: 68.14px;
+
+  /* Colors */
+  --white: #fff;
+  --color-black: #000;
+  --light-grey: #f5f5f5;
+  --color-gray-200: #eff5ff;
+  --color-gray-300: #f2f2f2;
+  --color-gray-400: #3f67ac;
+  --color-gray-500: #424242;
+  --color-gray-600: #333;
+  --body-dark-grey: #292929;
+  --color-gray-800: #1c1c1c;
+  --color-gray-900: #0e0f1d;
+  --color-brown: #ef3061;
+  --red: #ff0a47;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-sm: 2.51px;
+  --gap-md: 6.28px;
+  --gap-lg: 7.54px;
+  --gap-xl: 15.07px;
+
+  /* Paddings */
+  --padding-2xs: 2.5122616291046143px;
+  --padding-xs: 5.0245232582092285px;
+  --padding-sm: 7.536785125732422px;
+  --padding-md: 9.397589683532715px;
+  --padding-lg: 11.537348747253418px;
+  --padding-xl: 15.073570251464844px;
+
+  /* border radiuses */
+  --br-3xs: 2.51px;
+  --br-2xs: 4.08px;
+  --br-xs: 10px;
+  --br-sm: 15px;
+  --br-md: 42.39px;
+  --br-lg: 78.31px;
+  --br-xl: 96.14px;
+  --br-2xl: 100px;
+  --br-3xl: 956.33px;
+}
